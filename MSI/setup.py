@@ -10,10 +10,10 @@ setup(
    
 
     project_urls={
-        'Documentation': 'https://github.com/nabilsoft237/MSI',  # Ajoutez ici la documentation si applicable
-        'Source': 'https://github.com/nabilsoft237/MSI',
+        'Documentation': 'https://INFO3.com/readthedocs.io',  # Ajoutez ici la documentation si applicable
+        'Source': 'https://github.com/nabilsoft237/DOCS',
     },
-    author='ngouhouo',
+    author='ngouhouo nabil',
     author_email='nabilf045@gmail.com',
     packages=find_packages(),
     classifiers=[
