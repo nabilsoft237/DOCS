@@ -19,7 +19,7 @@ sys.path.insert(0, os.path.abspath('../../MSI'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'MSI'
+project = 'INFO3'
 copyright = '2025, Ngouhouo Nabil'
 author = 'Ngouhouo Nabil'
 
